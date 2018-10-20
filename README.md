@@ -1,5 +1,5 @@
 # FOREX_Pattern_Recognition
-Time series pattern recognition algorithm tested in FOREX markets
+Machine learning time series pattern recognition algorithm (tested in FOREX market)
 
 START
 
