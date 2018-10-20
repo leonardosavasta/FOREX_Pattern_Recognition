@@ -1,0 +1,3 @@
+# Configuration variables
+
+data_path: "data/USDCHF.csv"
